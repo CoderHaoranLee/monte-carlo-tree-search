@@ -2,7 +2,7 @@
 
 This is supplementary code for [Monte Carlo Tree Search tutorial blog post here](https://int8.io/monte-carlo-tree-search-beginners-guide)
 
-to run try:
+to run try(python3):
 
 ```python
 
